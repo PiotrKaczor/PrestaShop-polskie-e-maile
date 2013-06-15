@@ -21,7 +21,11 @@ dostępny na tej samej licencji.
 
 ## Wprowadzone zmiany
 
-### account
+1. Globalnie przyjęta forma __Witaj Piotr__ zamiast wcześniejszego 
+__Witaj Piotr Kaczor__. W pierwotna forma z imieniem i nazwiskiem brzmiała 
+trochę niezgrabnie.
+2. Dodane krótkie podsumowanie każdej wiadomości widoczne w lewym górnym rogu. 
+Wyświetlane jest ono w krótkim podglądzie wiadomości w programach pocztowych.
 
 ## Jak przygotować się do nadpisania szablonów e-mail
 
