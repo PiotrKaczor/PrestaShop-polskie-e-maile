@@ -28,6 +28,12 @@ utratą wprowadzonych zmian po aktualizacji PrestaShop_
 1. Przejdz do __Preferencje -> Szablony__
 
 ![Krok 1](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-1.png)
+
 2. __Dodaj nowy__ szablon, wprowadz jego nazwę oraz katalog i zaznacz by 
 brakujące pliki zostały skopiowane z szablonu __default__
+
+![Krok 2](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-2.png)
+![Krok 3](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-3.png)
 3. Ustaw nowo utworzony szablon jako aktywny
+
+![Krok 4](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-4.png)
