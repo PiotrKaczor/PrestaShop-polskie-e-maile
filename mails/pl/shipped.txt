@@ -1,0 +1,17 @@
+Witaj{firstname} {lastname},
+
+Twoje zamówienie o referencjach {order_name} zostało wysłane.
+
+
+Wkrótce otrzymasz link, który pozwoli ci śledzić przesyłkę.
+
+
+Przechodząc do opcji "Historia zamówień" w rubryce "Moje konto" możesz śledzić przesyłkę na naszej stronie internetowej.
+
+Jeśli posiadasz konto 'gość', możesz śledzić zamówienie pod tym adresem: {guest_tracking_url}
+
+
+{shop_name} - {shop_url}
+
+
+{shop_url} oparte na systemie PrestaShop™

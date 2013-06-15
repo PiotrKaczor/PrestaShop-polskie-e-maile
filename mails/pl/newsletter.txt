@@ -1,0 +1,5 @@
+Newsletter w {shop_name}
+ 
+{message}
+ 
+{shop_name} oparty na systemie PrestaShop™

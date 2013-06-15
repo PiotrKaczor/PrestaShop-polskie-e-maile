@@ -1,0 +1,16 @@
+Witaj{firstname} {lastname},
+
+Twoje konto 'gość' zostało przekształcone w konto 'klient'
+
+Adres elektroniczny: {email}
+Hasło: {passwd}
+
+
+Dostęp do konta uzyskasz na naszej stronie: {shop_url}
+
+	
+
+
+
+{shop_url} oparty na systemie PrestaShop™
+

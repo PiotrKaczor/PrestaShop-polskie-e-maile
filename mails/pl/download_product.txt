@@ -1,0 +1,17 @@
+﻿Witaj {firstname} {lastname}, dziekujemy za zakupy w  {shop_name} !
+ 
+Masz {nbProducts} produkt/y do pobrania.
+ 
+
+Oto linki do pobrania zakupionych produktów: {virtualProducts}
+ 
+
+
+W sekcji "Historia zamówień" i w "Moje konto" możesz obejrzeć swoje zamówienie i pobrać fakturę.
+
+Jeśli posiadasz konto 'gość', możesz śledzić zamówienie pod tym adresem: {guest_tracking_url}?id_order={id_order}
+
+
+
+ 
+{shop_name} oparty na systemie PrestaShop™

@@ -1,0 +1,11 @@
+Witaj {firstname} {lastname},
+ 
+Zamowienie #{id_order}
+ 
+Wystapil problem z twoja platnoscia za zamowienie #{id_order}. Prosimy o kontakt tak szybko jak to mozliwe.
+ 
+Twoje zamowienie nie zostanie zrealizowane dopoki problem nie zostanie wyjasniony..
+ 
+W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie i pobrac fakture.
+ 
+{shop_name} oparty na systemie PrestaShop™

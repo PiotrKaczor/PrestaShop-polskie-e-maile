@@ -1,0 +1,9 @@
+Witaj,
+		
+Uwaga: otrzymałeś nowe ostrzeżenie w logach w swoim Panelu Administracyjnym.
+
+Możesz sprawdzić to w Panelu Administracyjnym > Narzędzia > Logi.
+		
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,8 @@
+Witaj {firstname} {lastname},
+ 
+Kupon zwrotu {id_order_return} został zmieniony na 
+"{state_order_return}".
+ 
+W sekcji "Historia zamówień" i "Moje konto" możesz śledzić realizację zwrotu.
+ 
+{shop_name} oparty na systemie PrestaShop™

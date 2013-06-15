@@ -1,0 +1,9 @@
+Witaj {firstname} {lastname},
+ 
+Zostało wygenerowane dla Ciebie nowe zlecenie.
+ 
+Przejdź do {order_link} aby sfinalizować płatność.
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™

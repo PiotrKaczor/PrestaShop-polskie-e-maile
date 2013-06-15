@@ -1,0 +1,12 @@
+Witaj {firstname} {lastname},
+
+Twoje zamówienie o referecnjach {order_name} zostało anulowane.
+
+By śledzić przesyłkę, wystarczy przejść do opcji "Historia zamówień" znajdującej się w rubryce "Moje konto" na naszej stronie internetowej {shop_name}.
+Jeśli posiadasz konto 'gość' możesz śledzić przesyłke wchodząc na poniżej podany adres : {guest_tracking_url}
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} oparte na systemie PrestaShop™

@@ -1,0 +1,7 @@
+Wiadomosc ze sklepu {shop_name}
+ 
+Adres e-mail: {email}
+
+Wiadomosc: {message}
+ 
+{shop_name} oparty na systemie PrestaShop™

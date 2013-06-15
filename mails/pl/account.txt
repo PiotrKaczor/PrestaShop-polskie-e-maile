@@ -1,0 +1,17 @@
+﻿Witaj {firstname} {lastname},
+ 
+Dane Twojego konta
+ 
+Adres e-mail: {email}
+Haslo: {passwd}
+ 
+Porady dotyczace bezpieczenstwa:
+
+* Przechowuj dane Twojego konta w bezpiecznym miejscu.
+* Nie ujawniaj nikomu swojego hasla.
+* Regularnie zmieniaj swoje haslo.
+* Jesli bedziesz miec podejrzenia, ze ktos uzywa twojego konta nielegalnie, prosimy powiadomic nas o tym natychmiast.
+ 
+Mozesz juz skladac zamowienia w sklepie: {shop_name}.
+ 
+{shop_name}  oparty na systemie PrestaShop™

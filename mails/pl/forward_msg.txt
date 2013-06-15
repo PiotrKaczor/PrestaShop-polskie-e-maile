@@ -1,0 +1,4 @@
+{employee} chce przekazać Ci tę wiadomość.
+Komentarz : {comment}
+ 
+{messages}

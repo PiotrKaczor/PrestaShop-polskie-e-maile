@@ -1,0 +1,9 @@
+Witaj {firstname} {lastname},
+ 
+Zamowienie #{id_order}
+ 
+Twoje zamowienie zostalo przyjete do realizacji.
+ 
+W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie i pobrac fakture.
+ 
+{shop_name} oparty na systemie PrestaShop™

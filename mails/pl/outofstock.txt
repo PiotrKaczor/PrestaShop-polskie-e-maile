@@ -1,0 +1,9 @@
+Witaj {firstname} {lastname},
+ 
+Zamowienie #{id_order}
+ 
+Aktualnie oczekujemy na dostawe jednego lub wiecej produktow z twojego zamowienia #{id_order}. Moze to spowodowac niewielkie opoznienia w realizacji zamowienia. Robimy co mozemy aby jak najszybciej zrealizowac zamowienie. Przepraszamy za opoznienia.
+ 
+W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie i pobrac fakture.
+ 
+{shop_name} oparty na systemie PrestaShop™

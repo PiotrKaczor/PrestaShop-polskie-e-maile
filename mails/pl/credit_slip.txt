@@ -1,0 +1,10 @@
+Dzień dobry  {firstname} {lastname},
+ 
+Zamowienie #{id_order} 
+ 
+Informujemy, ze zostala wystawiona nota korygujaca do zamowienia #{id_order}.
+ 
+W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec historie swojego zamowienia.
+ 
+
+{shop_name} oparty na systemie PrestaShop™

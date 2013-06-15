@@ -1,0 +1,17 @@
+Witaj {firstname} {lastname},
+ 
+
+
+Dzięki złożeniu zamówienia otrzymałeś od nas rabat na następne zamówienie {order_name}.
+ 
+
+Oto twój kod rabatowy: {voucher_num}, na kwotę {voucher_amount}.
+
+Przy następnym zamówieniu, wklej ten kod do koszyka przed dokonaniem zapłaty.
+
+Dziękujemy i do zobaczenia {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} oparty na systemie PrestaShop™

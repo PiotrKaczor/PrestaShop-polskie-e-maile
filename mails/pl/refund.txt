@@ -1,0 +1,9 @@
+Witaj {firstname} {lastname},
+ 
+Zamowienie #{id_order}
+ 
+Platnosc za twoje zamowienie zostala zwrocona.
+ 
+W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie.
+ 
+{shop_name} oparty na systemie PrestaShop™
