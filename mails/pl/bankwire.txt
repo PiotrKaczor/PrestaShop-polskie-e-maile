@@ -1,10 +1,10 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
  
-Zamowienie #{id_order}
+Zamówienie #{id_order}
  
-Twoje zamowienie zostalo zlozone i zralizujemy je gdy tylko otrzymamy od ciebie zaplate.
+Twoje zamówienie zostało złożone i zrealizujemy je gdy tylko otrzymamy od Ciebie zapłatę.
  
-Wybrales przelew bankowy jako metode zaplaty. Wyslij przelew na ponizsze dane :
+Wybrałeś przelew bankowy jako metodę płatności. Wyślij przelew na poniższe dane:
 
 {bankwire_owner}
 
@@ -12,8 +12,9 @@ Wybrales przelew bankowy jako metode zaplaty. Wyslij przelew na ponizsze dane :
 
 {bankwire_address}
 
-Calkowita kwota do zaplaty: {total_paid}
+Całkowita kwota do zapłaty: {total_paid}
  
-W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie i pobrac fakture.
+W sekcji "Historia zamówień" w "Twoim koncie" możesz obejrzeć swoje zamówienie i pobrać fakturę.
  
-{shop_name} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
