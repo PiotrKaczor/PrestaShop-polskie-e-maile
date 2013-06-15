@@ -35,4 +35,3 @@ $_LANGMAIL['Your new password'] = 'Twoje nowe hasło';
 $_LANGMAIL['Password query confirmation'] = 'Potwierdzenie prośby o hasło';
 $_LANGMAIL['An answer to your message is available #ct%1$s #tc%2$s'] = 'Dostępna jest odpowiedź na Twoją wiadomość #ct%1$s #tc%2$s';
 $_LANGMAIL['New voucher regarding your order %s'] = 'Nowy kod rabatowy dotyczący zamówienia %s';
-$_LANGMAIL['Your message has been correctly sent'] = 'Twoja wiadomość została poprawnie wysłana';
