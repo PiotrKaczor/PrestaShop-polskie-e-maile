@@ -26,6 +26,7 @@ _Stworzenie nowego i nieużywanie szablonu_ __default__ _zabezpiecza przed
 utratą wprowadzonych zmian po aktualizacji PrestaShop_
 
 1. Przejdz do __Preferencje -> Szablony__
+
 ![Krok 1](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-1.png)
 2. __Dodaj nowy__ szablon, wprowadz jego nazwę oraz katalog i zaznacz by 
 brakujące pliki zostały skopiowane z szablonu __default__
