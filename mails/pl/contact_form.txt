@@ -1,16 +1,14 @@
-Twoja wiadomość została wysłana prawidłowo do klienta.
+Twoja wiadomość została wysłana od obsługi sklepu {shop_name}.
 
 Twoja wiadomość:
-
 {message}
 
-Referencje zamówienia: {order_name}
+Zamówienie: {order_name}
 
-Załącznik : {attached_file}
+Załącznik: {attached_file}
 
-Odpowiemy na twoją wiadomość jak tylko to będzie możliwe..
+Odpowiemy na twoją wiadomość jak tylko to będzie możliwe.
 
-Z poważaniem,
-
-
-{shop_url} oparte na systemie PrestaShop™
+Z poważaniem
+{shop_name}
+{shop_url}

@@ -1,44 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
-<head>
-	<title></title>
-</head>
-<body>
-<table style="font-family: Verdana,sans-serif; font-size: 11px; color: #374953; width: 550px;">
-	<tbody>
-		<tr>
-			<td align="left"><a href="{shop_url}" title="{shop_name}"><img alt="{shop_name}" src="{shop_logo}" style="border: none;" /></a></td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td align="left" style="background-color: {color}; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;">Votre message a bien &eacute;t&eacute; envoy&eacute; &agrave; notre service client.</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td align="left">Twoja wiadomość została prawidłowo wysłana.<br />
-			<br />
-			Wiadomość : {message}<br />
-			<br />
-			Referencje zam&oacute;wienia : {order_name}<br />
-			<br />
-			Załącznik: {attached_file}</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td align="left" style="background-color: {color}; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;">Nous vous r&eacute;pondrons d&egrave;s que possible.</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td align="center" style="font-size: 10px; border-top: 1px solid #D9DADE;"><a href="{shop_url}" style="color: {color}; font-weight: bold; text-decoration: none;">{shop_name}</a>&nbsp;oparte na systemie&nbsp;<a href="http://www.prestashop.com/" style="text-decoration: none; color: #374953;">PrestaShop&trade;</a></td>
-		</tr>
-	</tbody>
-</table>
-</body>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>{shop_name} - Twoja wiadomość</title>
+
+    </head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: none;margin: 0;padding: 0;background-color: #FAFAFA;width: 100%;">
+        <center>
+            <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" style="margin: 0;padding: 0;background-color: #FAFAFA;height: 100%;width: 100%;">
+                <tr>
+                    <td align="center" valign="top" style="border-collapse: collapse;">
+                        <table border="0" cellpadding="10" cellspacing="0" width="600" style="background-color: #FAFAFA;">
+                            <tr>
+                                <td valign="top" style="border-collapse: collapse;">
+                                    <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                        <tr>
+                                            <td valign="top" style="border-collapse: collapse;">
+                                                <div style="color: #505050;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">
+                                                    Kopia wiadomości przesłanej do obsługi sklepu.
+                                                </div>
+                                            </td>
+
+                                            <td valign="top" width="190" style="border-collapse: collapse;">
+                                                <div style="color: #505050;font-family: Arial;font-size: 10px;line-height: 100%;text-align: right;">
+                                                    <a href="{shop_url}" title="{shop_url}" target="_blank" style="color: {color};font-weight: bold;text-decoration: none;" >{shop_name}</a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="600" style="border: 1px solid #DDDDDD;background-color: #FFFFFF;">
+                            <tr>
+                                <td align="center" valign="top" style="border-collapse: collapse;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #FFFFFF;border-bottom: 0;">
+                                        <tr>
+                                            <td style="border-collapse: collapse;color: #202020;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;padding: 0;text-align: center;vertical-align: middle;">
+                                                <h1 style="color: #202020;display: block;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;"><a href="{shop_url}" title="{shop_url}" target="_blank" style="color: {color};font-weight: bold;text-decoration: none;" ><img src="{shop_logo}" alt="{shop_name}" style="max-width: 600px;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" /></a></h1>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" style="border-collapse: collapse;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tr>
+                                            <td valign="top" style="border-collapse: collapse;background-color: #FFFFFF;">
+                                                <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td valign="top" style="border-collapse: collapse;">
+                                                            <div style="color: #505050;font-family: Arial;font-size: 14px;line-height: 150%;text-align: left;">
+                                                                <h1 style="color: #202020;display: block;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">Przesłana wiadomość:</h1>
+                                                                <strong>{message}</strong><br /><br />
+                                                                Zamówienie:<br /><strong>{order_name}</strong>
+                                                                <br />
+                                                                Załącznik:<br /><strong>{attached_file}</strong><br /><br />
+                                                                Odpowiemy na Twoją wiadomość jak tylko to będzie możliwe.
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" style="border-collapse: collapse;">
+                                    <table border="0" cellpadding="10" cellspacing="0" width="600" style="background-color: #FFFFFF;border-top: 0;">
+                                        <tr>
+                                            <td valign="top" style="border-collapse: collapse;">
+                                                <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td colspan="2" valign="middle" style="border-collapse: collapse;background-color: #FFFFFF;border: 0;">
+                                                            <div style="color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-align: center;">
+                                                                &nbsp;<a href="{shop_url}" title="{shop_name}" style="color: {color};font-weight: Bold;text-decoration: none;">{shop_name}</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <br />
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
 </html>
