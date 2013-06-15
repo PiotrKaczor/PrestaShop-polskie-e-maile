@@ -2,3 +2,6 @@
 Komentarz : {comment}
  
 {messages}
+
+{shop_name}
+{shop_url}
