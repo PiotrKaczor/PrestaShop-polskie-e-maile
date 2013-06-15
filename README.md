@@ -19,25 +19,29 @@ użyty został __simple-basic__ z projektu GitHub
 [mailchimp / email-blueprints](https://github.com/mailchimp/Email-Blueprints)
 dostępny na tej samej licencji.
 
+## Wprowadzone zmiany
+
+### account
+
 ## Jak przygotować się do nadpisania szablonów e-mail
 
 ### Instalacja nowego szablonu
 _Stworzenie nowego i nieużywanie szablonu_ __default__ _zabezpiecza przed 
 utratą wprowadzonych zmian po aktualizacji PrestaShop_
 
-__1__ Przejdz do __Preferencje -> Szablony__
+__1.__ Przejdz do __Preferencje -> Szablony__
 
 ![Krok 1](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-1.png)
 
-__2__ __Dodaj nowy__ szablon
+__2.__ __Dodaj nowy__ szablon
 
 ![Krok 2](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-2.png)
 
-__3__ Wprowadz jego nazwę oraz katalog i zaznacz by brakujące pliki zostały 
+__3.__ Wprowadz jego nazwę oraz katalog i zaznacz by brakujące pliki zostały 
 skopiowane z szablonu __default__
 
 ![Krok 3](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-3.png)
 
-__4__ Ustaw nowo utworzony szablon jako aktywny
+__4.__ Ustaw nowo utworzony szablon jako aktywny
 
 ![Krok 4](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-4.png)
