@@ -1,16 +1,13 @@
-﻿Witaj {firstname} {lastname},
+﻿Witaj {firstname},
 
-Twoje zamówienie jest obecnie w tranzycie.
+Twoje zamówienie jest obecnie w transporcie.
 
-Możesz śledzić przesyłkę klikając na poniższy link: {followup}
+Możesz śledzić przesyłkę klikając na poniższy link:
+{followup}
 
-MOżna również dokonać przeglądu niniejszego zamówienia i pobrać faktury z "Historia zamówień", wybierjąc opcję "Moje konto" na naszej witrynie. 
-
+Można również dokonać przeglądu niniejszego zamówienia i pobrać faktury z "Historia zamówień", wybierając opcję "Moje konto" na naszej witrynie. 
 
 Dziekujemy za dokonanie zakupu w naszym sklepie internetowym {shop_name}!
 
-{shop_name} - {shop_url}
-
-
-
-{shop_url} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
