@@ -1,4 +1,4 @@
-﻿Witaj {firstname} {lastname},
+﻿Witaj {firstname},
  
 Dane Twojego konta
  
