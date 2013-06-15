@@ -1,17 +1,21 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
  
-Zamowienie #{id_order}
+Zamówienie #{id_order}
  
-Twoje zamowienie zostalo zlozone i zralizujemy je gdy tylko otrzymamy od ciebie zaplate.
+Twoje zamówienie zostało złożone i zralizujemy je gdy tylko otrzymamy od Ciebie zapłatę.
  
-Wybrales czek jako metode zaplaty. Prosze wyslac czek na ponizsze dane:
+Wybrałeś czek jako metodę płatności. Prosze wysłać czek na poniższe dane:
 
-- kwota {total_paid}
+Kwota:
+{total_paid}
 
-- zamowienie {cheque_name}
+Zamówienie:
+{cheque_name}
 
-- na adres {cheque_address}
+Adres:
+{cheque_address}
  
-W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie i pobrac fakture.
+W sekcji "Historia zamówień" w "Twoim koncie" możesz obejrzeć swoje zamówienie i pobrać fakturę.
  
-{shop_name} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
