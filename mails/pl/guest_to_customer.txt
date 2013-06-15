@@ -1,16 +1,18 @@
-Witaj{firstname} {lastname},
+Witaj {firstname},
 
-Twoje konto 'gość' zostało przekształcone w konto 'klient'
+Twoje konto "Gość" zostało przekształcone w konto "Klient".
 
-Adres elektroniczny: {email}
+Adres e-mail: {email}
 Hasło: {passwd}
 
+Porady dotyczące bezpieczeństwa:
 
-Dostęp do konta uzyskasz na naszej stronie: {shop_url}
+* Przechowuj dane Twojego konta w bezpiecznym miejscu.
+* Nie ujawniaj nikomu swojego hasła.
+* Regularnie zmieniaj swoje hasło.
+* Jeśli bedziesz mieć podejrzenia, ze ktoś używa twojego konta nielegalnie, prosimy powiadomić nas o tym natychmiast.
+ 
+Dostęp do konta uzyskasz na naszej stronie: {my_account_url}
 
-	
-
-
-
-{shop_url} oparty na systemie PrestaShop™
-
+{shop_name}
+{shop_url}
