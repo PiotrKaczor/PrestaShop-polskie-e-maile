@@ -1,0 +1,12 @@
+Witaj {firstname} {lastname},
+
+Mamy przyjemność powiadomienia cię, że otrzymałeś kupon rabatowy dzięki uczestnictwie w akcji polecania znajomych.  
+
+Oto numer twojego kuponu rabatowego : {voucher_num}, o wartości {voucher_amount}.
+
+Wklej kod do koszyka przed dokonaniem kolejnego zamówienia, by uzyskąc zniżkę.
+
+
+
+
+{shop_url} oparte na systemie  PrestaShop™

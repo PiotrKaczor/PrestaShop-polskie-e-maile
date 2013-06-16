@@ -1,0 +1,11 @@
+Witaj,
+
+Po dokonaniu rejestracji na naszym newsletterze, mamy przyjemność zaoferować Ci koupon rabatowy  : {discount}
+
+{shop_name} - {shop_url}
+
+
+
+
+
+{shop_url} oparte na systemie PrestaShop™

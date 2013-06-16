@@ -1,0 +1,14 @@
+Witaj {firstname} {lastname},
+ 
+Należysz do grupy naszych najlepszych klientów i z tej uwagi kierujemy do Ciebie tego e-maila, gdyż zauważylismy, że od {days_threshold} dni, nie dokonałeś żadnego zamówienia.
+
+
+Z racji twojego zaufania do naszej firmy, pragniemy przyznać ci zniżkę w wysokości{amount}% dla twojego przyszłego zamówienia. Oferta jest ważna {days} dni, więc nie trać czasu !
+ 
+Oto Twój voucher : {voucher_num}
+
+Wpisz kod do koszyka, by uzyskać zniżke.
+
+
+
+{shop_url} oparte na systemie PrestaShop™

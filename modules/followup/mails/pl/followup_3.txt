@@ -1,0 +1,11 @@
+Witaj {firstname} {lastname},
+ 
+Kierujemy tego e-maila do Ciebie, gdyż jesteś jednym z naszych najlepszych klientów oraz pragniemy podziękować Ci za zaufanie do naszej firmy.
+
+Z tej także racji przyznajemy Ci rabat w wysokości {amount}% do następnego zamówienia. Oferta jest ważna {days} dni, więc nie trać czasu! 
+ 
+Oto Twój voucher: {voucher_num}
+Wprowadź ten kod do koszyka aby uzyskać rabat.
+
+
+{shop_url} oparte na systemie PrestaShop™

@@ -1,0 +1,12 @@
+Witaj,
+
+Produkt {product} jest prawie na wyczerpaniu.
+
+Obecnie ilość produktu jest mniejsza niż {last_qty}.
+
+Dostępne na składzie: {qty}
+
+Przed odnowieniem zapasów, radzimy ci odwiedzić stronę produktu w panelu administracyjnym.
+
+
+{shop_url} oparte na oprogramowaniu PrestaShop™

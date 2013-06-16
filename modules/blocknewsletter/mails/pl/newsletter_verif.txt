@@ -1,0 +1,8 @@
+Witaj,
+
+Wysłałeś nam prośbę o możliwość zapisania sie na naszym newsletterze, by to potwierdzić kliknij na poniższy link :
+{verif_url}
+
+
+
+{shop_url} oparte na systemie PrestaShop™

@@ -1,0 +1,32 @@
+Bonjour,
+
+Otrzymałeś nowe zamówienie od {firstname} {lastname} ({email}) w {shop_name}.
+
+Zamówienie : {order_name}
+Data: {date}
+Przewoźnik: {carrier}
+Typ płatności: {payment}
+Kupony i rabaty : {total_discounts}
+Koszty przesyłki : {total_shipping}
+Suma produktów: {total_products}
+Opakowanie ozdobne : {total_wrapping}
+Suma wszystkich podatków : {total_paid}
+
+Adres przesyłki:
+	{delivery_block_txt}
+
+Adres rozliczenia :
+	{invoice_block_txt}
+
+
+
+Wiadomość klienta :
+
+{message}
+
+
+
+
+
+
+{shop_url} oparte na oprogramowaniu PrestaShop™

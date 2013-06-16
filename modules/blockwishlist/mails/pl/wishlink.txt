@@ -1,0 +1,7 @@
+Dzień dobry,
+
+{shop_name} zachęca Cię do wysłania linku, do twoich przyjaciół, którzy mogą konsultować twoją listę prezentów {wishlist} :
+
+{message}
+
+{shop_url} oparte na systemie PrestaShop™

@@ -1,0 +1,13 @@
+{firstname_friend} {lastname_friend}, dołącz do nas !
+
+Twój znajomy {firstname} {lastname} zaproponował Ci stanie się jego poleconym klientem za pośrednictwem strony {shop_url}.
+
+Stań się jego poleconym klientem, do zdobycia kupon rabatowy {discount}!
+
+By dołączyć do nas, wystarczy wejść na poniższy adres :{shop_url}{link}
+
+Nie zapomnij sprecyzować e-mail twojego znajomego jako polecającego podczas rejestracji:{email}.
+
+
+
+{shop_url} oparte na systemie PrestaShop™

@@ -1,0 +1,16 @@
+Witaj {firstname} {lastname},
+ 
+Dziękujemy za dokonanie zakupów w {shop_name}
+ 
+Dziękujemy za zakup! Wyjątkowo, otrzymujesz od nas zniżkę w wysokości {amount}% do Twojego kolejnego zamówienia! Oferta jest ważna {days} dni, więc nie trać czasu!
+ 
+Oto Twój voucher : {voucher_num}
+
+Wprowadź ten kod do koszyka aby otrzymać zniżkę.
+
+
+
+
+
+
+{shop_url} oparte na systemie PrestaShop™

@@ -1,0 +1,11 @@
+Gratulacje !
+
+Polecony przez Ciebie przyjaciel {sponsored_firstname} {sponsored_lastname} dokonał swojego pierwszego zakupu na naszej stronie internetowej {shop_url} !
+
+Mamy przyjemność ofiarować Ci kupon rabatowy {discount_display} (kupon rabatowy z kodem: {discount_name}), które możesz użyć przy kolejnym zakupie.
+
+
+
+
+
+{shop_url} oparty na systemie PrestaShop™
