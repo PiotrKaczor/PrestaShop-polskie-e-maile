@@ -1,14 +1,8 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
  
-
-Otrzymałeś nową wiadomość dotyczącą zamówienia {order_name} :
+Otrzymałeś nową wiadomość dotyczącą zamówienia {order_name}:
 
 {message}
- 
 
-
-
-
-
-
-{shop_url} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
