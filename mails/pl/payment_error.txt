@@ -1,6 +1,6 @@
 Witaj {firstname},
 
-Wystąpił problem z Twoja płatnością za zamówienie {order_name}. 
+Wystąpił problem z Twoją płatnością za zamówienie {order_name}. 
 Prosimy o kontakt tak szybko jak to możliwe.
 
 Twoje zamówienie nie zostanie zrealizowane do czasu wyjaśnienia niejasności.
