@@ -1,11 +1,17 @@
-Witaj {firstname} {lastname},
- 
-Zamowienie #{id_order}
- 
-Wystapil problem z twoja platnoscia za zamowienie #{id_order}. Prosimy o kontakt tak szybko jak to mozliwe.
- 
-Twoje zamowienie nie zostanie zrealizowane dopoki problem nie zostanie wyjasniony..
- 
-W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie i pobrac fakture.
- 
-{shop_name} oparty na systemie PrestaShop™
+Witaj {firstname},
+
+Wystąpił problem z Twoja płatnością za zamówienie {order_name}. 
+Prosimy o kontakt tak szybko jak to możliwe.
+
+Twoje zamówienie nie zostanie zrealizowane do czasu wyjaśnienia niejasności.
+
+By śledzić zamówienie, wystarczy przejść na stronę "Moje konto"
+{my_account_url}
+i wybrać opcję "Historia zamówień"
+{history_url}
+
+Jeśli posiadasz konto 'Gość' możesz śledzić zamówienie wchodząc na poniżej podany adres:
+{guest_tracking_url}
+
+{shop_name}
+{shop_url}
