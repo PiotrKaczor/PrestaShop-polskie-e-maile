@@ -1,4 +1,6 @@
 Witaj,
 
-To jest testowy mail z twojego sklepu.
+To jest testowy e-mail z twojego sklepu.
  
+{shop_name}
+{shop_url}
