@@ -1,23 +1,20 @@
-Witaj {firstname} {lastname}, dziekujemy za zlozenie zamowienia w naszym sklepie.
- 
-Szczegoly zamowienia
- 
-Zamowienie #{order_name} z dnia {date}
-Sposob platnosci: {payment}
- 
+Witaj {firstname}, dziekujemy za złożenie zamówienia w naszym sklepie.
+
+Szczegóły zamówienia {order_name} z dnia {date}.
+
+Sposób płatności: {payment}
+         Wysyłka: {carrier}
+
+Ref 	Produkt 	Cena jednostkowa 	Ilość 	Suma
 {products} {discounts}
-Ref 	Produkt 	Cena jednostkowa 	Ilosc 	Suma
-  	Produkty 	{total_products}
-  	Rabaty 	{total_discounts}
-  	Pakowanie na prezent 	{total_wrapping}
-  	Wysylka 	{total_shipping}
-  	Razem 	{total_paid}
- 
-Wysylka
- 
-{carrier}
- 
-Adres dostawy
+
+            Produkty {total_products}
+              Rabaty {total_discounts}
+Pakowanie na prezent {total_wrapping}
+             Wysyłka {total_shipping}
+               Razem {total_paid}
+
+Adres dostawy:
 {delivery_firstname} {delivery_lastname}
 {delivery_address1}
 {delivery_address2}
@@ -25,7 +22,7 @@ Adres dostawy
 {delivery_country} {delivery_state}
 {delivery_phone}
 
-Adres faktury
+Adres faktury:
 {invoice_firstname} {invoice_lastname}
 {invoice_address1}
 {invoice_address2}
@@ -33,6 +30,13 @@ Adres faktury
 {invoice_country} {invoice_state}
 {invoice_phone}
  
-W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzeć swoje zamowienie i pobrac fakture.
+By śledzić zamówienie, wystarczy przejść na stronę "Moje konto"
+{my_account_url}
+i wybrać opcję "Historia zamówień"
+{history_url}
+
+Jeśli posiadasz konto 'Gość' możesz śledzić zamówienie wchodząc na poniżej podany adres:
+{guest_tracking_url}
  
-{shop_name} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
