@@ -1,10 +1,13 @@
 Witaj {firstname},
 
-Twoje zamówienie o identyfikatorze {order_name} zostało anulowane.
+Twoje zamówienie {order_name} zostało anulowane.
 
-By śledzić przesyłkę, wystarczy przejść do opcji "Historia zamówień" znajdującej się w rubryce "Moje konto" na naszej stronie internetowej {shop_name}.
+By śledzić zamówienie, wystarczy przejść na stronę "Moje konto"
+{my_account_url}
+i wybrać opcję "Historia zamówień"
+{history_url}
 
-Jeśli posiadasz konto 'Gość' możesz śledzić przesyłke wchodząc na poniżej podany adres:
+Jeśli posiadasz konto 'Gość' możesz śledzić zamówienie wchodząc na poniżej podany adres:
 {guest_tracking_url}
 
 {shop_name}

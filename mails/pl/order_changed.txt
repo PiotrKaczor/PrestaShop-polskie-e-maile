@@ -1,9 +1,13 @@
 Witaj {firstname},
 
-Zamówienie {order_name} zostało zmodyfikowane przez obsługę sklepu.
+Twoje zamówienie {order_name} zostało zmodyfikowane przez obsługę sklepu.
 
-By śledzić przesyłkę, wystarczy przejść do opcji "Historia zamówień" znajdującej się w rubryce "Moje konto" na naszej stronie internetowej {shop_name}.
-Jeśli posiadasz konto 'Gość' możesz śledzić przesyłke wchodząc na poniżej podany adres:
+By śledzić zamówienie, wystarczy przejść na stronę "Moje konto"
+{my_account_url}
+i wybrać opcję "Historia zamówień"
+{history_url}
+
+Jeśli posiadasz konto 'Gość' możesz śledzić zamówienie wchodząc na poniżej podany adres:
 {guest_tracking_url}
 
 {shop_name}
