@@ -22,7 +22,7 @@ dostępny na tej samej licencji.
 ## Wprowadzone zmiany
 
 1. Globalnie przyjęta forma __Witaj Piotr__ zamiast wcześniejszego 
-__Witaj Piotr Kaczor__. W pierwotna forma z imieniem i nazwiskiem brzmiała 
+__Witaj Piotr Kaczor__. Pierwotna forma z imieniem i nazwiskiem brzmi 
 trochę niezgrabnie.
 2. Dodane krótkie podsumowanie każdej wiadomości widoczne w lewym górnym rogu. 
 Wyświetlane jest ono w krótkim podglądzie wiadomości w programach pocztowych.
