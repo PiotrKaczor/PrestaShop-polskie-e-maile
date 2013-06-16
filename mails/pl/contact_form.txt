@@ -1,7 +1,9 @@
 Twoja wiadomość została wysłana od obsługi sklepu {shop_name}.
 
 Twoja wiadomość:
+***   ***   ***   ***   ***   ***   ***   ***   ***
 {message}
+***   ***   ***   ***   ***   ***   ***   ***   ***
 
 Zamówienie: {order_name}
 

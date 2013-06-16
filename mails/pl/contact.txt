@@ -1,10 +1,12 @@
 Wiadomość ze sklepu {shop_name}
- 
-Adres e-mail:
-{email}
 
 Wiadomość:
+***   ***   ***   ***   ***   ***   ***   ***   ***
 {message}
- 
+***   ***   ***   ***   ***   ***   ***   ***   ***
+
+Adres e-mail podany w formularzu:
+{email}
+
 {shop_name}
 {shop_url}

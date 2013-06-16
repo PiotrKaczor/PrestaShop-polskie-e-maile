@@ -1,7 +1,11 @@
 {employee} chce przekazać Ci tę wiadomość.
-Komentarz : {comment}
- 
+Jego komentarz:
+{comment}
+
+Wiadomości:
+***   ***   ***   ***   ***   ***   ***   ***   ***
 {messages}
+***   ***   ***   ***   ***   ***   ***   ***   ***
 
 {shop_name}
 {shop_url}
