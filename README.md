@@ -19,6 +19,10 @@ użyty został __simple-basic__ z projektu GitHub
 [mailchimp / email-blueprints](https://github.com/mailchimp/Email-Blueprints)
 dostępny na tej samej licencji.
 
+## Wskazówki
+Wybrany kolor dla e-maili musi być na tyle ciemny by biała czcionka na jego tle 
+była czytelna.
+
 ## Wprowadzone zmiany
 
 1. Globalnie przyjęta forma __Witaj Piotr__ zamiast wcześniejszego 
