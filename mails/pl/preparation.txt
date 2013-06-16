@@ -1,9 +1,14 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
  
-Zamowienie #{id_order}
+Przystąpiliśmy do realizacji Twojego zamówienia {order_name}.
  
-Twoje zamowienie zostalo przyjete do realizacji.
+By śledzić zamówienie, wystarczy przejść na stronę "Moje konto"
+{my_account_url}
+i wybrać opcję "Historia zamówień"
+{history_url}
+
+Jeśli posiadasz konto 'Gość' możesz śledzić zamówienie wchodząc na poniżej podany adres:
+{guest_tracking_url}
  
-W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie i pobrac fakture.
- 
-{shop_name} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
