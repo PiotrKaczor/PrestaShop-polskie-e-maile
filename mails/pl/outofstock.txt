@@ -2,7 +2,10 @@ Witaj {firstname},
  
 Zamówienie {order_name}
  
-Aktualnie oczekujemy na dostawę jednego lub więcej produktow z twojego zamowienia {order_name}. Może to spowodować niewielkie opoźnienia w realizacji zamówienia. Robimy co możemy aby jak najszybciej zrealizować zamówienie. Przepraszamy za opoźnienia.
+Aktualnie oczekujemy na dostawę jednego lub więcej produktów z Twojego 
+zamówienia {order_name}. Może to spowodować niewielkie opoźnienia 
+w realizacji zamówienia. Zamówienie zrealizujemy najszybciej jak się da.
+Przepraszamy za opoźnienie.
  
 By śledzić zamówienie, wystarczy przejść na stronę "Moje konto"
 {my_account_url}
