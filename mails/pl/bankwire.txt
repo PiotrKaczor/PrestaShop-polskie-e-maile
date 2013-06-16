@@ -12,6 +12,8 @@ Wybrałeś przelew bankowy jako metodę płatności. Wyślij przelew na poniższ
 
 {bankwire_address}
 
+Tytuł przelewu: Zamówienie {order_name}
+
 Całkowita kwota do zapłaty: {total_paid}
  
 W sekcji "Historia zamówień" w "Twoim koncie" możesz obejrzeć swoje zamówienie i pobrać fakturę.

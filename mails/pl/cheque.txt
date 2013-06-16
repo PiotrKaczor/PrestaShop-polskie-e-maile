@@ -9,10 +9,11 @@ Wybrałeś czek jako metodę płatności. Prosze wysłać czek na poniższe dane
 Kwota:
 {total_paid}
 
-Zamówienie:
-{cheque_name}
+Z tytułu:
+Zamówienie {order_name}
 
-Adres:
+Dane odbiorcy:
+{cheque_name}
 {cheque_address}
  
 W sekcji "Historia zamówień" w "Twoim koncie" możesz obejrzeć swoje zamówienie i pobrać fakturę.
