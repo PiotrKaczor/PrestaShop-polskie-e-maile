@@ -1,9 +1,7 @@
 Witaj {firstname},
- 
-Zamówienie #{id_order}
- 
-Informujemy, ze została wystawiona nota korygująca do zamówienia #{id_order}.
- 
+
+Informujemy, ze została wystawiona nota korygująca do zamówienia {order_name}.
+
 W sekcji "Historia zamowień" w "Twoim koncie" możesz obejrzeć historię swojego zamówienia.
 
 {shop_name}

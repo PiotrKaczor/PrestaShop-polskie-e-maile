@@ -1,6 +1,6 @@
 ﻿Witaj {firstname},
 
-Twoje zamówienie jest obecnie w transporcie.
+Twoje zamówienie {order_name} jest obecnie w transporcie.
 
 Możesz śledzić przesyłkę klikając na poniższy link:
 {followup}
