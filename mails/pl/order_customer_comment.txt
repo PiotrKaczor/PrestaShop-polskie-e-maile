@@ -1,9 +1,14 @@
-Witaj,
+{shop_name}
  
-Wiadomosc od {shop_name}
- 
-Otrzymales nowa wiadomosc dotyczaca zamowienia #{id_order}
+Wiadomość od klienta:
+{firstname} {lastname}
+{email}
 
+Dotyczy zamówienia:
+{order_name}
+
+Wiadomość:
 {message}
  
-{shop_name}  oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
