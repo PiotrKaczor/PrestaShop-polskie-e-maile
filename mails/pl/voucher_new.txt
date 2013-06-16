@@ -1,14 +1,11 @@
-Hi {firstname} {lastname},
+Witaj {firstname},
 
-This is to inform you about the creation of a voucher.
+Otrzymałeś od nas kod rabatowy.
 
-Here is the code of your voucher : {voucher_num}.
+Oto twój kod rabatowy:
+{voucher_num}
 
-Simply copy/paste this code during the payment process for your next order.
+Przy następnym zamówieniu, wklej ten kod do koszyka przed dokonaniem zapłaty.
 
-Thank you for shopping at {shop_name}.
-
-{shop_name} - {shop_url}
-
-
-{shop_url} powered by PrestaShop™
+{shop_name}
+{shop_url}
