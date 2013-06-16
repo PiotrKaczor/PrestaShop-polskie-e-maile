@@ -20,8 +20,9 @@ użyty został __simple-basic__ z projektu GitHub
 dostępny na tej samej licencji.
 
 ## Wskazówki
-Wybrany kolor dla e-maili musi być na tyle ciemny by biała czcionka na jego tle 
-była czytelna.
+1. Szerokość __logo__ nie powinna przekraczać 600px
+2. Wybrany __kolor__ dla e-maili musi być na tyle ciemny by biała czcionka na 
+jego tle była czytelna.
 
 ## Wprowadzone zmiany
 
