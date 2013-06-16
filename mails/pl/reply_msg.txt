@@ -1,5 +1,9 @@
 {reply}
 
-Proszę nie odpowiadać na tą wiadomość, nie dostaniemy tej odpowiedzi.
+Proszę nie odpowiadać na wiadomość, nie dostaniemy tej odpowiedzi.
 
-Aby odpowiedzieć, prosimy użyć tego linku: {link}.
+Aby odpowiedzieć, prosimy użyć tego linku:
+{link}
+
+{shop_name}
+{shop_url}
