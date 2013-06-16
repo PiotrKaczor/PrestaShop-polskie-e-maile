@@ -1,9 +1,14 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
+
+Płatność za Twoje zamówienie {order_name} została zwrócona.
+
+By śledzić zamówienie, wystarczy przejść na stronę "Moje konto"
+{my_account_url}
+i wybrać opcję "Historia zamówień"
+{history_url}
+
+Jeśli posiadasz konto 'Gość' możesz śledzić zamówienie wchodząc na poniżej podany adres:
+{guest_tracking_url}
  
-Zamowienie #{id_order}
- 
-Platnosc za twoje zamowienie zostala zwrocona.
- 
-W sekcji "Historia zamowien" w "Twoim koncie" mozesz obejrzec swoje zamowienie.
- 
-{shop_name} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
