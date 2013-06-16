@@ -1,8 +1,15 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
  
 Kupon zwrotu {id_order_return} został zmieniony na 
 "{state_order_return}".
+
+By śledzić zamówienie, wystarczy przejść na stronę "Moje konto"
+{my_account_url}
+i wybrać opcję "Historia zamówień"
+{history_url}
+
+Jeśli posiadasz konto 'Gość' możesz śledzić zamówienie wchodząc na poniżej podany adres:
+{guest_tracking_url}
  
-W sekcji "Historia zamówień" i "Moje konto" możesz śledzić realizację zwrotu.
- 
-{shop_name} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}

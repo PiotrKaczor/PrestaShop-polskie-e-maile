@@ -1,37 +1,102 @@
-<table style="font-family: Verdana,sans-serif; font-size: 11px; color: #374953; width: 550px;" border="0">
-<tbody>
-<tr>
-<td align="left"><a title="{shop_name}" href="{shop_url}"><img style="border:none;" src="{shop_logo}" alt="{shop_name}"></a></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td align="left">Witaj <strong>{firstname} {lastname}</strong>,</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;" align="left">Zwrot #{id_order_return}</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td align="left"><strong>Status twojego zwrotu został zmieniony na "{state_order_return}".</strong></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td align="left">W sekcji <font color="#000000"><span style="background-color: rgb(255, 255, 255);"><b>''Moje konto''</b> i ''</span><b>Historia zamówień''</b><b>&nbsp;</b></font>- możesz <a style="text-decoration: initial;" href="{shop_url}history.php"><font color="#000000">sprawdzić</font></a> swoj zwrot.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td style="font-size:10px; border-top: 1px solid #D9DADE;" align="center"><a style="color:#DB3484; font-weight:bold; text-decoration:none;" href="{shop_url}">{shop_name}</a> oparty na systemie <a style="text-decoration:none; color:#374953;" href="http://www.prestashop.com/">PrestaShop™</a></td>
-</tr>
-</tbody>
-</table>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>{shop_name} - Status zwrotu</title>
+
+    </head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: none;margin: 0;padding: 0;background-color: #FAFAFA;width: 100%;">
+        <center>
+            <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" style="margin: 0;padding: 0;background-color: #FAFAFA;height: 100%;width: 100%;">
+                <tr>
+                    <td align="center" valign="top" style="border-collapse: collapse;">
+                        <table border="0" cellpadding="10" cellspacing="0" width="600" style="background-color: #FAFAFA;">
+                            <tr>
+                                <td valign="top" style="border-collapse: collapse;">
+                                    <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                        <tr>
+                                            <td valign="top" style="border-collapse: collapse;">
+                                                <div style="color: #505050;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">
+                                                    Status zwrotu #{id_order_return}.
+                                                </div>
+                                            </td>
+
+                                            <td valign="top" width="190" style="border-collapse: collapse;">
+                                                <div style="color: #505050;font-family: Arial;font-size: 10px;line-height: 100%;text-align: right;">
+                                                    <a href="{shop_url}" title="{shop_url}" target="_blank" style="color: {color};font-weight: bold;text-decoration: none;" >{shop_name}</a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="600" style="border: 1px solid #DDDDDD;background-color: #FFFFFF;">
+                            <tr>
+                                <td align="center" valign="top" style="border-collapse: collapse;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #FFFFFF;border-bottom: 0;">
+                                        <tr>
+                                            <td style="border-collapse: collapse;color: #202020;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;padding: 0;text-align: center;vertical-align: middle;">
+                                                <h1 style="color: #202020;display: block;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;"><a href="{shop_url}" title="{shop_url}" target="_blank" style="color: {color};font-weight: bold;text-decoration: none;" ><img src="{shop_logo}" alt="{shop_name}" style="max-width: 600px;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" /></a></h1>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" style="border-collapse: collapse;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tr>
+                                            <td valign="top" style="border-collapse: collapse;background-color: #FFFFFF;">
+                                                <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td valign="top" style="border-collapse: collapse;">
+                                                            <div style="color: #505050;font-family: Arial;font-size: 14px;line-height: 150%;text-align: left;">
+                                                                <h1 style="color: #202020;display: block;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">Witaj {firstname}</h1>
+                                                                <h2 style="color: #202020;display: block;font-family: Arial;font-size: 26px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">Zwrot <span style="color: {color};">#{id_order_return}</span></h2>
+                                                                
+                                                                Status twojego zwrotu został zmieniony na "<strong>{state_order_return}</strong>".
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" style="border-collapse: collapse;">
+                                    <table border="0" cellpadding="10" cellspacing="0" width="600" style="background-color: #FFFFFF;border-top: 0;">
+                                        <tr>
+                                            <td valign="top" style="border-collapse: collapse;">
+                                                <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td colspan="2" valign="middle" style="border-collapse: collapse;background-color: {color};border: 0;">
+                                                            <div style="color: #FFFFFF;font-family: Arial;font-size: 12px;line-height: 125%;text-align: center;">
+                                                                &nbsp;<a href="{my_account_url}" style="color: #FFFFFF;font-weight: normal;text-decoration: underline;">Twoje Konto</a> | <a href="{history_url}" style="color: #FFFFFF;font-weight: normal;text-decoration: underline;">Twoje Zamówienia</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td colspan="2" valign="middle" style="border-collapse: collapse;background-color: #FFFFFF;border: 0;">
+                                                            <div style="color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-align: center;">
+                                                                &nbsp;<a href="{shop_url}" title="{shop_name}" style="color: {color};font-weight: bold;text-decoration: none;">{shop_name}</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <br />
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
