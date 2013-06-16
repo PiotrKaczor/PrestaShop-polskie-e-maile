@@ -1,5 +1,6 @@
-Newsletter w {shop_name}
+Newsletter - {shop_name}
  
 {message}
  
-{shop_name} oparty na systemie PrestaShop™
+{shop_name}
+{shop_url}
