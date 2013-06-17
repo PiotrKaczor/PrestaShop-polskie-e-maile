@@ -22,7 +22,7 @@ Adres dostawy:
 {delivery_country} {delivery_state}
 {delivery_phone}
 
-Adres faktury:
+Adres rozliczenia:
 {invoice_firstname} {invoice_lastname}
 {invoice_address1}
 {invoice_address2}
