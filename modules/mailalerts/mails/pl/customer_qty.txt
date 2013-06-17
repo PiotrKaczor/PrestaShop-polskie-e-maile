@@ -1,11 +1,11 @@
 Witaj,
 
-Produkt {product} jest znów dostępny. Magazyn został uzupełniony.
+Produkt {product} jest znów dostępny.
 
-Klikając na poniższy link, przejdziesz bezpośrednio na stronę produktu: {product_link}
+Klikając na poniższy link, przejdziesz bezpośrednio na stronę produktu:
+{product_link}
 
-Możesz z powrotem dokonywać zamówień w naszym sklepie internetowym.
+Możesz z powrotem dokonywać zamówień w naszym sklepie.
 
-
-
-{shop_url} oparte na systemie PrestaShop™
+{shop_name}
+{shop_url}

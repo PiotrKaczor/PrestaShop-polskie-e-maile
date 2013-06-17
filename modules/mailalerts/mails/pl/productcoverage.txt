@@ -2,9 +2,9 @@ Witaj,
 
 Produkt {product} będzie wkrótce na wyczerpaniu.
 
-Faktyczne pokrycie magazynu jest poniżej {warning_coverage}.
+Faktyczne pokrycie magazynu jest poniżej {warning_coverage} sztuk.
 
-Obecne pokrycie : {current_coverage}
+Obecne pokrycie : {current_coverage} sztuk
 
-
-{shop_url} oparte na systemie PrestaShop™
+{shop_name}
+{shop_url}

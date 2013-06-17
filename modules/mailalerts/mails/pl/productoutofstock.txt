@@ -8,5 +8,5 @@ Dostępne na składzie: {qty}
 
 Przed odnowieniem zapasów, radzimy ci odwiedzić stronę produktu w panelu administracyjnym.
 
-
-{shop_url} oparte na oprogramowaniu PrestaShop™
+{shop_name}
+{shop_url}
