@@ -55,7 +55,7 @@
                                                                 <h1 style="color: #202020;display: block;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">Witaj {firstname}</h1>
                                                                 <h2 style="color: #202020;display: block;font-family: Arial;font-size: 26px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">Zamówienie <span style="color: {color};">{order_name}</span></h2>
                                                                 Data zamówienia: <strong>{date}</strong><br />
-                                                                Sposób płatności: <strong>{payment}</strong><br />
+                                                                Metoda płatności: <strong>{payment}</strong><br />
                                                                 Wysyłka: <strong>{carrier}</strong><br /><br />
 
                                                                 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -67,10 +67,8 @@
                                                                             <th style="width: 15%; padding: 0.6em 0;">Ilość</th>
                                                                             <th style="width: 20%; padding: 0.6em 0;">Suma</th>
                                                                         </tr>
-                                                                        <!-- Products -->
                                                                         {products}
                                                                         {discounts}
-                                                                        <!-- Footer: prices --> 
                                                                         <tr style="text-align:right;">
                                                                             <td>&nbsp;</td>
                                                                             <td style="background-color:#B9BABE; padding:0.6em 0.4em;" colspan="3">Produkty</td>
@@ -98,8 +96,7 @@
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>
-<br />
-
+                                                                <br />
                                                                 <table  border="0" cellpadding="0" cellspacing="0" width="100%">
                                                                     <tbody>
                                                                         <tr style="background-color:#B9BABE; text-transform:uppercase;">
