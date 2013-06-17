@@ -1,16 +1,14 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
  
-Dziękujemy za dokonanie zakupów w {shop_name}
+Dziękujemy za dokonanie zakupów w {shop_name}.
  
-Dziękujemy za zakup! Wyjątkowo, otrzymujesz od nas zniżkę w wysokości {amount}% do Twojego kolejnego zamówienia! Oferta jest ważna {days} dni, więc nie trać czasu!
+Dziękujemy za zakup! Wyjątkowo, otrzymujesz od nas zniżkę 
+w wysokości {amount}% do Twojego kolejnego zamówienia! 
+Oferta jest ważna {days} dni, więc nie trać czasu!
  
-Oto Twój voucher : {voucher_num}
+Oto Twój kod rabatowy: {voucher_num}
 
-Wprowadź ten kod do koszyka aby otrzymać zniżkę.
+Przy następnym zamówieniu, wklej ten kod do koszyka przed dokonaniem zapłaty.
 
-
-
-
-
-
-{shop_url} oparte na systemie PrestaShop™
+{shop_name}
+{shop_url}

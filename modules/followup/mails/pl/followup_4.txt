@@ -1,14 +1,16 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
  
-Należysz do grupy naszych najlepszych klientów i z tej uwagi kierujemy do Ciebie tego e-maila, gdyż zauważylismy, że od {days_threshold} dni, nie dokonałeś żadnego zamówienia.
+Należysz do grupy naszych najlepszych klientów i z tej okazji 
+kierujemy do Ciebie tego e-maila, gdyż zauważylismy, 
+że od {days_threshold} dni, nie dokonałeś żadnego zamówienia.
 
-
-Z racji twojego zaufania do naszej firmy, pragniemy przyznać ci zniżkę w wysokości{amount}% dla twojego przyszłego zamówienia. Oferta jest ważna {days} dni, więc nie trać czasu !
+Z racji twojego zaufania do naszej firmy, pragniemy przyznać Ci zniżkę 
+w wysokości {amount}% dla twojego przyszłego zamówienia. 
+Oferta jest ważna {days} dni, więc nie trać czasu !
  
-Oto Twój voucher : {voucher_num}
+Oto Twój kod rabatowy: {voucher_num}
 
-Wpisz kod do koszyka, by uzyskać zniżke.
+Przy następnym zamówieniu, wklej ten kod do koszyka przed dokonaniem zapłaty.
 
-
-
-{shop_url} oparte na systemie PrestaShop™
+{shop_name}
+{shop_url}

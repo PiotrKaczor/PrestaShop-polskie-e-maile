@@ -1,15 +1,17 @@
-Witaj {firstname} {lastname},
+Witaj {firstname},
  
 Podczas ostatniej wizyty w {shop_name}, nie potwierdziłeś zamówienia.
 
-Wszystkie niepotwierdzone zamówienia są zapisane w koszyku, jeśli chcesz je zrealizować wystarczy przejść na stronę sklepu :
-
+Wszystkie niepotwierdzone zamówienia są zapisane w koszyku, 
+jeśli chcesz je zrealizować wystarczy przejść na stronę sklepu:
 {shop_url}
 
-Wyjątkowo, przyznajemy ci zniżkę {amount}% na twoje zamówienie! Oferta jest ważna {days} dni. Nie trać czasu!
+Wyjątkowo, przyznajemy ci zniżkę {amount}% na twoje zamówienie! 
+Oferta jest ważna {days} dni. Nie trać czasu!
 
-Oto Twój voucher : {voucher_num}
+Oto Twój kod rabatowy: {voucher_num}
 
-By otrzymać zniżkę, należy wpisać kod do koszyka.
+Przy następnym zamówieniu, wklej ten kod do koszyka przed dokonaniem zapłaty.
 
-{shop_url} oparte na systemie PrestaShop™
+{shop_name}
+{shop_url}
