@@ -1,9 +1,9 @@
 Witaj,
 
-{firstname} {lastname} zaprasza cię do odwiedzenia jego listy życzeń {wishlist} :
+{firstname} {lastname} 
+zaprasza cię do odwiedzenia jego listy życzeń "{wishlist}"
+w sklepie {shop_name}:
 {message}
 
-
-
-
-{shop_url} oparte na systemie PrestaShop™
+{shop_name}
+{shop_url}
