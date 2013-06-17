@@ -4,7 +4,7 @@ Produkt {product} będzie wkrótce na wyczerpaniu.
 
 Faktyczne pokrycie magazynu jest poniżej {warning_coverage} sztuk.
 
-Obecne pokrycie : {current_coverage} sztuk
+Obecne pokrycie {current_coverage} sztuk.
 
 {shop_name}
 {shop_url}

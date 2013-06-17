@@ -2,9 +2,9 @@ Witaj,
 
 Produkt {product} jest prawie na wyczerpaniu.
 
-Obecnie ilość produktu jest mniejsza niż {last_qty}.
+Obecnie ilość produktu jest mniejsza niż {last_qty} sztuk.
 
-Dostępne na składzie: {qty}
+Dostępne w magazynie {qty} sztuk.
 
 Przed odnowieniem zapasów, radzimy ci odwiedzić stronę produktu w panelu administracyjnym.
 
