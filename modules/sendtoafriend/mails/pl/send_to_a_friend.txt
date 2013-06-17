@@ -1,13 +1,9 @@
-Dzień dobry {name},
-
+Witaj {name},
 
 {customer} wysyła Ci link na temat produktu, który może Cię zainteresować.
 
-Dotyczy {product} : {product_link}
+Dotyczy {product}: 
+{product_link}
 
-
-{shop_name} - {shop_url}
-
-
-
-{shop_url} stworzone przez PrestaShop™
+{shop_name}
+{shop_url}
