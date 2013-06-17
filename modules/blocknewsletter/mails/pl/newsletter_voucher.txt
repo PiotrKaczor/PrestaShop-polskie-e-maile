@@ -1,11 +1,10 @@
 Witaj,
 
-Po dokonaniu rejestracji na naszym newsletterze, mamy przyjemność zaoferować Ci koupon rabatowy  : {discount}
+Po dokonaniu rejestracji na naszym Newsletterze, 
+mamy przyjemność zaoferować Ci kod rabatowy:
+{discount}
 
-{shop_name} - {shop_url}
+Przy następnym zamówieniu, wklej ten kod do koszyka przed dokonaniem zapłaty.
 
-
-
-
-
-{shop_url} oparte na systemie PrestaShop™
+{shop_name}
+{shop_url}

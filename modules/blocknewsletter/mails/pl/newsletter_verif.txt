@@ -1,8 +1,8 @@
 Witaj,
 
-Wysłałeś nam prośbę o możliwość zapisania sie na naszym newsletterze, by to potwierdzić kliknij na poniższy link :
+Wysłałeś nam prośbę o możliwość zapisania sie na naszym newsletterze, 
+by to potwierdzić kliknij na poniższy link :
 {verif_url}
 
-
-
-{shop_url} oparte na systemie PrestaShop™
+{shop_name}
+{shop_url}
