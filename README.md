@@ -38,7 +38,7 @@ Wyświetlane jest ono w krótkim podglądzie wiadomości w programach pocztowych
 _Stworzenie nowego i nieużywanie szablonu_ __default__ _zabezpiecza przed 
 utratą wprowadzonych zmian po aktualizacji PrestaShop_
 
-__1.__ Przejdz do __Preferencje -> Szablony__
+__1.__ Przejdź do __Preferencje -> Szablony__
 
 ![Krok 1](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-1.png)
 
