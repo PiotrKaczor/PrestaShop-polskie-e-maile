@@ -57,3 +57,11 @@ skopiowane z szablonu __default__
 __4.__ Ustaw nowo utworzony szablon jako aktywny
 
 ![Krok 4](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-4.png)
+
+## Jak ustawić kolor w wiadomościach e-mail
+
+__1.__ Przejdź do __Preferencje -> Szablony__
+
+![Krok 1](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-1.png)
+
+__2.__ Wybierz kolor klikając na ikonę &#8882;koła kolorów&#8881; ![Krok 2](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/color-selecting.png)
