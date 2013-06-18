@@ -32,7 +32,10 @@ trochę niezgrabnie.
 2. Dodane krótkie podsumowanie każdej wiadomości widoczne w lewym górnym rogu. 
 Wyświetlane jest ono w krótkim podglądzie wiadomości w programach pocztowych.
 
-## Jak przygotować się do nadpisania szablonów e-mail
+![Porównanie wprowadzonych zmain - Infografika]
+(https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/porownanie-zmian-prestashop-polskie-e-maile.png)
+
+## Jak przygotować się do nadpisania szablonów e-mail na nowej instalacji PrestaShop
 
 ### Instalacja nowego szablonu
 _Stworzenie nowego i nieużywanie szablonu_ __default__ _zabezpiecza przed 
