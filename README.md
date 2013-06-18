@@ -73,3 +73,14 @@ skopiowane z szablonu __default__
 __4.__ Ustaw nowo utworzony szablon jako aktywny
 
 ![Krok 4](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-4.png)
+
+
+## Przyszłość
+1. Dodanie formułek grzecznościowych, takich jak: "Z poważaniem" itp.
+2. Dodanie tekstu lepiej przedstawiających klientowi sens danego e-maila.
+3. Dodanie informacji o następnych krokach, głównie w e-mailach dotyczących statusów zamówienia
+
+## Przydatne linki
+1. [Strona projektu](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile)
+2. [Oficjalne polskie forum PrestaShop](http://www.prestashop.com/forums/forum/26-jezyk-polski-polish/)
+3. [Autor na forum](http://www.prestashop.com/forums/user/523313-piotr-kaczor/)
