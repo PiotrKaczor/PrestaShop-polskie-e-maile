@@ -20,7 +20,7 @@ kolumną o szerokości __600px__ i __białym__ kolorem tła (HEX `#FFFFFF`).
 ## Licencja
 Projekt rozpoczął 
 [Piotr Kaczor](http://www.prestashop.com/forums/user/523313-piotr-kaczor/)
-na linencji [Creative Commons Uznanie autorstwa-Na tych samych warunkach 3.0]
+na linencji [Creative Commons Uznanie autorstwa - Na tych samych warunkach 3.0]
 (http://creativecommons.org/licenses/by-sa/3.0/pl/), jako bazowy szablon HTML 
 użyty został __simple-basic__ z projektu GitHub 
 [mailchimp / email-blueprints](https://github.com/mailchimp/Email-Blueprints)
