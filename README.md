@@ -16,6 +16,8 @@ kolumną o szerokości __600px__ i __białym__ kolorem tła (HEX `#FFFFFF`).
 3. [Wprowadzone zmiany w szablonach](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#wprowadzone-zmiany-w-szablonach)
 4. [Jak ustawić kolor w wiadomościach e-mail](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#jak-ustawi-kolor-w-wiadomociach-e-mail)
 5. [Jak przygotować się do nadpisania szablonów e-mail](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#jak-przygotowa-si-do-nadpisania-szablonw-e-mail-na-nowej-instalacji-prestashop)
+6. [Przyszłość](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#przyszo)
+7. [Przydatne linki](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#przydatne-linki)
 
 ## Licencja
 Projekt rozpoczął 
@@ -77,8 +79,8 @@ __4.__ Ustaw nowo utworzony szablon jako aktywny
 
 ## Przyszłość
 1. Dodanie formułek grzecznościowych, takich jak: "Z poważaniem" itp.
-2. Dodanie tekstu lepiej przedstawiających klientowi sens danego e-maila.
-3. Dodanie informacji o następnych krokach, głównie w e-mailach dotyczących statusów zamówienia
+2. Dodanie tekstów lepiej przedstawiających klientowi sens danego e-maila dlaczego go dostał i co ma z nim zrobić.
+3. Dodanie informacji o następnych krokach, głównie w e-mailach dotyczących statusów zamówienia.
 
 ## Przydatne linki
 1. [Strona projektu](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile)
