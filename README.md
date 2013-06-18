@@ -79,7 +79,7 @@ __4.__ Ustaw nowo utworzony szablon jako aktywny
 
 ## Przyszłość
 1. Dodanie formułek grzecznościowych, takich jak: "Z poważaniem" itp.
-2. Dodanie tekstów lepiej przedstawiających klientowi sens danego e-maila dlaczego go dostał i co ma z nim zrobić.
+2. Dodanie tekstów lepiej przedstawiających klientowi sens danego e-maila, dlaczego go dostał i co ma z nim zrobić.
 3. Dodanie informacji o następnych krokach, głównie w e-mailach dotyczących statusów zamówienia.
 
 ## Przydatne linki
