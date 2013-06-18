@@ -67,7 +67,7 @@ __2.__ __Dodaj nowy__ szablon
 
 ![Krok 2](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-2.png)
 
-__3.__ Wprowadz jego nazwę oraz katalog i zaznacz by brakujące pliki zostały 
+__3.__ Wprowadź jego nazwę oraz katalog i zaznacz by brakujące pliki zostały 
 skopiowane z szablonu __default__
 
 ![Krok 3](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-3.png)
@@ -85,4 +85,5 @@ __4.__ Ustaw nowo utworzony szablon jako aktywny
 ## Przydatne linki
 1. [Strona projektu](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile)
 2. [Oficjalne polskie forum PrestaShop](http://www.prestashop.com/forums/forum/26-jezyk-polski-polish/)
-3. [Autor na forum](http://www.prestashop.com/forums/user/523313-piotr-kaczor/)
+3. [Wątek o szablonach na forum](http://www.prestashop.com/forums/topic/255450-darmowe-szablony-wiadomosci-e-mail-dla-prestashop-1541/)
+4. [Autor na forum](http://www.prestashop.com/forums/user/523313-piotr-kaczor/)
