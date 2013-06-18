@@ -48,7 +48,8 @@ __1.__ Przejdź do __Preferencje -> Szablony__
 
 ![Krok 1](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/nowy-szablon-krok-1.png)
 
-__2.__ Wybierz kolor klikając na ikonę __koła kolorów__ ![Krok 2](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/color-selecting.png)
+__2.__ Wybierz kolor klikając na ikonę __koła kolorów__ ![Krok 2](https://raw.github.com/wiki/PiotrKaczor/PrestaShop-polskie-e-maile/img/color-selecting.png) _Wybrany kolor powinien
+współgrać z białym kolorem czcionki wyświetlanej na jego tle._
 
 ## Jak przygotować się do nadpisania szablonów e-mail na nowej instalacji PrestaShop
 
