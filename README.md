@@ -1,3 +1,5 @@
+# Gałąź `develpoment` nie nadaje się do użycia. Jest tu na stałę wpisany kolor `#8e44ad` wymagający zamiany na zmienną `{color}` przed użyciem szablonów!
+
 Polskie E-mail-e dla PrestaShop 1.5.4.1
 ================================================================================
 _Polish E-mail's for PrestaShop 1.5.4.1_
