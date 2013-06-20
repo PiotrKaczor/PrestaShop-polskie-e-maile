@@ -1,6 +1,6 @@
 Wiadomość ze sklepu {shop_name}
 
-Wiadomość:
+Przesłana wiadomość:
 ***   ***   ***   ***   ***   ***   ***   ***   ***
 {message}
 ***   ***   ***   ***   ***   ***   ***   ***   ***

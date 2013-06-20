@@ -28,7 +28,7 @@ global $_LANGMAIL;
 $_LANGMAIL = array();
 $_LANGMAIL['Welcome!'] = 'Witaj!';
 $_LANGMAIL['Message from contact form'] = 'Wiadomość z formularza kontaktowego';
-$_LANGMAIL['Your message has been correctly sent'] = 'Przesłano wiadomość';
+$_LANGMAIL['Your message has been correctly sent'] = 'Przesłałeś wiadomość';
 $_LANGMAIL['New credit slip regarding your order'] = 'Nowy \'kredyt\' dotyczący zamówienia';
 $_LANGMAIL['Virtual product to download'] = 'Wirtualny produkt do pobrania';
 $_LANGMAIL['Fwd: Customer message'] = 'TR: Wiadomość od klienta';
