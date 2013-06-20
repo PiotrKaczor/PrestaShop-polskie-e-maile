@@ -3,7 +3,7 @@ Odpowiedz na Twoją wiadomość:
 {reply}
 ***   ***   ***   ***   ***   ***   ***   ***   ***
 
-Proszę nie odpowiadać na wiadomość, nie dostaniemy tej odpowiedzi.
+Proszę nie odpowiadać na ten e-mail, nie dostaniemy tej wiadomości.
 
 Aby odpowiedzieć, prosimy użyć tego linku:
 {link}
