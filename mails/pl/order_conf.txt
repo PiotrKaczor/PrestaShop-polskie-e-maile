@@ -3,15 +3,16 @@ Witaj {firstname}, dziekujemy za złożenie zamówienia w naszym sklepie.
 Szczegóły zamówienia {order_name} z dnia {date}.
 
 Sposób płatności: {payment}
-         Wysyłka: {carrier}
+  Sposób dostawy: {carrier}
 
 Ref 	Produkt 	Cena jednostkowa 	Ilość 	Suma
-{products} {discounts}
+{products} 
+{discounts}
 
             Produkty {total_products}
               Rabaty {total_discounts}
 Pakowanie na prezent {total_wrapping}
-             Wysyłka {total_shipping}
+             Dostawa {total_shipping}
                Razem {total_paid}
 
 Adres dostawy:

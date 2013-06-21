@@ -1,6 +1,6 @@
 Witaj {firstname},
  
-Zostało wygenerowane dla Ciebie nowe zlecenie.
+Zostało wygenerowane dla Ciebie nowe zamówienie.
  
 Przejdź do {order_link} aby sfinalizować płatność.
 
