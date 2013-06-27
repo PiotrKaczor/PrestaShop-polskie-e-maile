@@ -2,7 +2,7 @@ Witaj,
 
 Otrzymałeś nowe zamówienie od {firstname} {lastname} ({email}) w {shop_name}.
 
-              Zamówienie: {order_name}
+              Zamówienie: #{order_name}
                     Data: {date}
                  Dostawa: {carrier}
            Typ płatności: {payment}
