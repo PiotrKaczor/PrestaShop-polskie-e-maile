@@ -10,7 +10,7 @@ Ref 	Produkt 	Cena jednostkowa 	Ilość 	Suma
 {discounts}
 
             Produkty {total_products}
-              Rabaty {total_discounts}
+     Kupony rabatowe {total_discounts}
 Pakowanie na prezent {total_wrapping}
              Dostawa {total_shipping}
                Razem {total_paid}
