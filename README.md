@@ -1,6 +1,8 @@
 Polskie E-mail-e dla PrestaShop 1.5.4.1
 ================================================================================
 _Polish E-mail's for PrestaShop 1.5.4.1_
+
+__Używane z powodzeniem też w wersjach PrestaShop od 1.5.2 do 1.5.5__
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Poprawione i uaktualnione szablony wiadomości e-mail. Usunięte błędy w 
@@ -11,16 +13,18 @@ kolumną o szerokości __600px__ i __białym__ kolorem tła (HEX `#FFFFFF`).
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ### Spis treści
+
 1. [Licencja](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#licencja)
 2. [Wskazówki](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#wskazówki)
 3. [Wprowadzone zmiany w szablonach](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#wprowadzone-zmiany-w-szablonach)
 4. [Jak ustawić kolor w wiadomościach e-mail](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#jak-ustawić-kolor-w-wiadomościach-e-mail)
 5. [Jak przygotować się do nadpisania szablonów e-mail](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#jak-przygotować-się-do-nadpisania-szablonów-e-mail-na-nowej-instalacji-prestashop)
-6. [Przyszłość](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#przyszość)
+6. [Przyszłość](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#przyszłość)
 7. [Przydatne linki](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#przydatne-linki)
 
 ## Licencja
-Projekt rozpoczął 
+
+Projekt rozpoczął
 [Piotr Kaczor](http://www.prestashop.com/forums/user/523313-piotr-kaczor/)
 na linencji [Creative Commons Uznanie autorstwa - Na tych samych warunkach 3.0]
 (http://creativecommons.org/licenses/by-sa/3.0/pl/), jako bazowy szablon HTML 
@@ -29,6 +33,7 @@ użyty został __simple-basic__ z projektu GitHub
 dostępny na tej samej licencji.
 
 ## Wskazówki
+
 1. Szerokość __logo__ nie powinna przekraczać 600px
 2. Wybrany __kolor__ dla e-maili musi być na tyle ciemny by biała czcionka na 
 jego tle była czytelna.
