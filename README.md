@@ -15,7 +15,7 @@ kolumną o szerokości __600px__ i __białym__ kolorem tła (HEX `#FFFFFF`).
 2. [Wskazówki](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#wskazówki)
 3. [Wprowadzone zmiany w szablonach](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#wprowadzone-zmiany-w-szablonach)
 4. [Jak ustawić kolor w wiadomościach e-mail](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#jak-ustawić-kolor-w-wiadomościach-e-mail)
-5. [Jak przygotować się do nadpisania szablonów e-mail](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#jak-przygotować-się-do-nadpisania-szablonw-e-mail-na-nowej-instalacji-prestashop)
+5. [Jak przygotować się do nadpisania szablonów e-mail](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#jak-przygotować-się-do-nadpisania-szablonów-e-mail-na-nowej-instalacji-prestashop)
 6. [Przyszłość](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#przyszość)
 7. [Przydatne linki](https://github.com/PiotrKaczor/PrestaShop-polskie-e-maile#przydatne-linki)
 
