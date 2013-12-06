@@ -2,7 +2,7 @@ Polskie E-mail-e dla PrestaShop 1.5.4.1
 ================================================================================
 _Polish E-mail's for PrestaShop 1.5.4.1_
 
-__Używane z powodzeniem też w wersjach PrestaShop od 1.5.2 do 1.5.5__
+__Używane z powodzeniem też w wersjach PrestaShop od 1.5.2 do 1.5.6__
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Poprawione i uaktualnione szablony wiadomości e-mail. Usunięte błędy w 
